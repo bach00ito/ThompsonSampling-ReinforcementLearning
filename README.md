@@ -1,1 +1,2 @@
-# ThompsonSampling-ReinforcementLearning
+# ThompsonSampling
+![alt text](https://ibb.co/YLG9Dnn)
